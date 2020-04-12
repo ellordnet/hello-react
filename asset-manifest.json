@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hello-react/static/css/main.66ae833f.chunk.css",
+    "main.js": "/hello-react/static/js/main.a8e63cb1.chunk.js",
+    "main.js.map": "/hello-react/static/js/main.a8e63cb1.chunk.js.map",
+    "runtime-main.js": "/hello-react/static/js/runtime-main.cf80ab3a.js",
+    "runtime-main.js.map": "/hello-react/static/js/runtime-main.cf80ab3a.js.map",
+    "static/js/2.5eea9fa4.chunk.js": "/hello-react/static/js/2.5eea9fa4.chunk.js",
+    "static/js/2.5eea9fa4.chunk.js.map": "/hello-react/static/js/2.5eea9fa4.chunk.js.map",
+    "index.html": "/hello-react/index.html",
+    "precache-manifest.60b08fcdd5f072b9fef13c6344ca9e26.js": "/hello-react/precache-manifest.60b08fcdd5f072b9fef13c6344ca9e26.js",
+    "service-worker.js": "/hello-react/service-worker.js",
+    "static/css/main.66ae833f.chunk.css.map": "/hello-react/static/css/main.66ae833f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf80ab3a.js",
+    "static/js/2.5eea9fa4.chunk.js",
+    "static/css/main.66ae833f.chunk.css",
+    "static/js/main.a8e63cb1.chunk.js"
+  ]
+}
